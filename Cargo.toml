@@ -1,6 +1,6 @@
 [package]
 name = "equivalent-flipped"
-version = "0.1.0"
+version = "0.1.1"
 repository = "https://github.com/al8n/equivalent-flipped"
 homepage = "https://github.com/al8n/equivalent-flipped"
 documentation = "https://docs.rs/equivalent-flipped"
@@ -11,7 +11,6 @@ keywords = ["hashmap", "no_std", "equivalent"]
 categories = ["data-structures", "no-std"]
 
 [dependencies]
-rustversion = "1"
 
 [workspace.package.metadata.docs.rs]
 all-features = true
