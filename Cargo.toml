@@ -1,6 +1,6 @@
 [package]
 name = "equivalent-flipped"
-version = "0.1.1"
+version = "1.0.0"
 repository = "https://github.com/al8n/equivalent-flipped"
 homepage = "https://github.com/al8n/equivalent-flipped"
 documentation = "https://docs.rs/equivalent-flipped"
